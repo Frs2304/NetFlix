@@ -1,1 +1,2 @@
-# Netflix-App
+# Netflix Clone
+Made with JavaScript.
