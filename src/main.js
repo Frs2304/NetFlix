@@ -12,7 +12,7 @@ function selectItem(e) {
   // Add show class
   tabContentItem.classList.add("show");
 }
-
+ // Remove border
 function removeBorder() {
   tabItems.forEach(item => item.classList.remove("tab-border"));
 }
