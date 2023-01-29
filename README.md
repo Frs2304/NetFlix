@@ -35,3 +35,7 @@ Please adhere to this project's `code of conduct`.
 
 **Client:** HTML, CSS, JavaScript.
 
+## IDE
+
+VS Code
+
