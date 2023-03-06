@@ -33,7 +33,9 @@ Please adhere to this project's `code of conduct`.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript.
+**Client:** React.
+**Server:** Firebase.
+
 
 ## IDE
 
