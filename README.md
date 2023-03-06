@@ -1,6 +1,6 @@
 # Netflix 
 
-Simple and Static Netflix Clone App made with JavaScript.
+Simple and Static Netflix Clone App made with React.
 
 
 ## Appendix
