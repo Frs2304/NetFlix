@@ -12,8 +12,3 @@ A custom made Netflix-Clone app that allows subscribers to watch a wide variety 
 **Client:** React.
 **Server:** Firebase.
 
-
-## IDE
-
-VS Code.
-
